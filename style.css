@@ -3,10 +3,11 @@ nav ul {
     margin: 0;
     padding: 0;
     background-color: white;
+    text-align: center;
 }
 
 nav ul li {
-    display: inline;
+    display: inline-block;
 }
 
 nav li a {
