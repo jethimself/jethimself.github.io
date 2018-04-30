@@ -1,12 +1,24 @@
+header h2 {
+    margin: 5px 0 10px 5px;
+}
+
+hr {
+    margin: 0;
+}
+
+nav {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+    width: 95px;
+    height: 754px;
+}
+
 nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     background-color: white;
-}
-
-nav ul li {
-    display: inline-block;
 }
 
 nav li a {
@@ -20,5 +32,28 @@ nav li a {
 
 nav li a:hover {
     background-color: #000;
+    width: 85px;
     color: white;
+}
+
+.column {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+body {
+    margin-left: 20px;
+}
+
+body img {
+    margin: 0 10px 0px 5px;
+    box-shadow: 5px 5px #DDD;
+}
+
+footer {
+    width: 100%;
+    margin: 10px 0 10px 0;
+    text-align: left;
+    font-size: small;
+    color: 
 }
